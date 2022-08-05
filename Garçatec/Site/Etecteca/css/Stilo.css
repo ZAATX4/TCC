@@ -1,0 +1,25 @@
+#body {
+    background: #B4DC7F;
+}
+#bolinha{
+    border-radius: 100%;
+    position: 0 0 fixed;
+    background: #FFE2FE;
+}
+#meiuca{
+    background: #145E2F;
+    position: 50% 50% fixed;
+}
+#espaco_artigo{
+    background: #FFE2FE;
+    position: 100% 0 fixed;i
+}
+#materias{
+    background: #145E2F;
+    border-bottom: #4B4E6D;
+}
+p#g1{
+    background: #4B4E6D;
+    position: 0 0 sticky;
+    
+}
